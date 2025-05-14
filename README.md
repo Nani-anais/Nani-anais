@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on IOS development <br><br>
+📚 FAU student, graduating in December 2025 with a bachelor's in computer science <br><br>
 
 
 ## 🌐 Socials:
