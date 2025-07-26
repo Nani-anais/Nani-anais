@@ -5,8 +5,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahernandez2022@fau.edu) 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anais-hernandez-b5a811284" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anais-hernandez-b5a811284?trk=profile-badge">Anais Hernandez</a></div>
-              
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anais%20Hernandez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anais-hernandez-b5a811284/)              
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -24,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nani-anais&icon=1&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Paypal.me/AnaisYH) 
 
   
