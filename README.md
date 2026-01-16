@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on IOS development <br><br>
-📚 FAU student, graduating in December 2025 with a bachelor's in computer science <br><br>
+📚 FAU student, graduated in December 2025 with a bachelor's in computer science <br><br>
+💡 Currently working on Web development and Hackerrank 
 
 
 ## 🌐 Socials:
@@ -22,9 +22,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nani-anais&icon=1&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Paypal.me/AnaisYH) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
